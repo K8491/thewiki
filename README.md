@@ -1,6 +1,6 @@
 # thewiki
 
-![Samuel L Jacksinin kuva](https://en.wikipedia.org/wiki/File:Samuel_L._Jackson_SDCC_2014_(cropped).jpg)
+![Samuel L Jacksinin kuva](https://www.google.fi/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjH_KeFldDRAhXIkSwKHbB-A2AQjRwIBw&url=http%3A%2F%2Fwww.thebillionthmonkey.com%2F2015%2F11%2Fpage-104-samuel-l-jackson-call-your.html&psig=AFQjCNHwu2inaeyX8Xp0Jc5uP-CmEeA5tA&ust=1484982496177269)
 
 ##alaotsikko
 
